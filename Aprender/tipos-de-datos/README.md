@@ -13,14 +13,13 @@ Python cuenta con varios tipos de datos, entre los cuales se encuentran:
 ```python
 # Tipos de datos
 
-numero_entero =10
+numero_entero = 10
 
-numero_decimal =3.1416
+numero_decimal = 3.1416
 
-cadena ="Hola mundo!"
+cadena = "Hola mundo!"
 
-booleano =True
-
+booleano = True
 
 print(f"Tipo de dato de numero_entero: {type(numero_entero)}")
 

@@ -1,6 +1,7 @@
 # Definición de una clase
 
 
+# Una clase es una plantilla para la creación de objetos. Define atributos y métodos que tendrán los objetos creados a partir de ella.
 class Persona:
     def __init__(self, nombre, edad):
         self.nombre = nombre
@@ -10,7 +11,7 @@ class Persona:
         print(f"Hola, mi nombre es {self.nombre} y tengo {self.edad} años.")
 
 
-# que es self?
+# ¿QUE ES SELF?
 # self es una referencia al objeto actual que se está creando o manipulando. Es similar a la palabra clave this en otros lenguajes de programación.
 
 # Creación de un objeto

@@ -1,5 +1,6 @@
 # Importar una librería
 
+# Para importar una librería en Python se utiliza la palabra clave import, seguida del nombre de la librería.
 import numpy as np
 
 # Utilizar una función de la librería

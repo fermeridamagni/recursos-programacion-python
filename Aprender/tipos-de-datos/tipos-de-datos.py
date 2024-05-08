@@ -8,7 +8,6 @@ cadena = "Hola mundo!"
 
 booleano = True
 
-
 print(f"Tipo de dato de numero_entero: {type(numero_entero)}")
 
 print(f"Tipo de dato de numero_decimal: {type(numero_decimal)}")
